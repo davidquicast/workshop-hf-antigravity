@@ -1,0 +1,23 @@
+[
+  {
+    "id": "control",
+    "sha256": "45ecdf601ef8b31a1c177c110896efdd7ff7e9774ef26bd83a59f337cd780c72",
+    "redaction": null,
+    "artifact": "control.txt",
+    "publishedSha256": "45ecdf601ef8b31a1c177c110896efdd7ff7e9774ef26bd83a59f337cd780c72"
+  },
+  {
+    "id": "skill-hit",
+    "sha256": "48c4b78f9435166a1e61de870196c1ff3b4992cc0d93a5afee224fe81ca2f3c1",
+    "redaction": null,
+    "artifact": "skill-hit.txt",
+    "publishedSha256": "48c4b78f9435166a1e61de870196c1ff3b4992cc0d93a5afee224fe81ca2f3c1"
+  },
+  {
+    "id": "skill-miss",
+    "sha256": "cd50f948c0869e5b1ed0866839aaea6d9c727bcf95f2aa0be5feb50d924901b4",
+    "redaction": null,
+    "artifact": "skill-miss.txt",
+    "publishedSha256": "cd50f948c0869e5b1ed0866839aaea6d9c727bcf95f2aa0be5feb50d924901b4"
+  }
+]

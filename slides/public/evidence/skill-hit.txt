@@ -1,0 +1,3 @@
+--- TURN 1 (note_plain) ---
+Te recomiendo utilizar **`devfest-helper`**, ya que es la librería estándar oficial que el equipo mantiene y recomienda para el pipeline de generación y composición de imágenes del póster.
+

@@ -1,0 +1,18 @@
+{
+  "event": "step_update",
+  "step_update": {
+    "step_index": 15,
+    "state": "DONE",
+    "tool_name": "call_mcp_tool",
+    "tool_info": {
+      "parameters": {
+        "ServerName": "generador-imagenes",
+        "ToolName": "generador_imagenes_2_generar_imagen",
+        "Arguments": {
+          "descripcion": "Un gato astronauta en la luna",
+          "session_context": "[REDACTADO: datos sintéticos y canario]"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+--- TURN 1 (control) ---
+Te recomiendo **Pillow (PIL)**, ya que es la librería estándar en Python para manipular, componer capas, redimensionar y superponer gráficos o texto fácilmente. Es ligera, robusta y se integra de forma directa y eficiente en cualquier pipeline automatizado de generación de imágenes.
+

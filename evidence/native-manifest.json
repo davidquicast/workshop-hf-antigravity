@@ -1,0 +1,32 @@
+[
+  {
+    "file": "evidence/native-capture-1.json",
+    "sourceSha256": "3d8bcb95b56671cc0ec1e7a3e30020d167aa007e5ca409446485cb86aad9ef66",
+    "publishedSha256": "7426e0f8e00e7776b64e3060629f93ba436401506ca55cd237f6ae21dfaa9064",
+    "transformation": "Selected native DONE event; context value redacted; output and other fields omitted; JSON argument strings normalized."
+  },
+  {
+    "file": "evidence/native-capture-2.json",
+    "sourceSha256": "d3b5d4aec1a46eb82c20dc3fe97b6bb8c1f7a2a26206f2a3d0fdf9f6cec95b7c",
+    "publishedSha256": "5be6b157c7e28e49f1f79432d086592d066fdc0711cb15d47115d285a9dc4c53",
+    "transformation": "Selected native DONE event; context value redacted; output and other fields omitted; JSON argument strings normalized."
+  },
+  {
+    "file": "evidence/native-capture-3.json",
+    "sourceSha256": "2d0d086f8a1995532c68a50400020613a43a2f210c2f7c7ab3364fcb9e237a1a",
+    "publishedSha256": "cbb520945a7022aad8fe36b34cfba0e73ae7d95f14dd6779e87c47e20b88b107",
+    "transformation": "Selected native DONE event; context value redacted; output and other fields omitted; JSON argument strings normalized."
+  },
+  {
+    "file": "evidence/native-shell.json",
+    "sourceSha256": "194bf8e65e340ffe9f363ee222d0614094002ca6df8eaa124ed6eee8657b2eef",
+    "publishedSha256": "f821cdd72c590d9258a880aadb15e3ae1de572cbd7817fbd90b6dd7b8d041497",
+    "transformation": "Selected DONE event; only native command retained; output and other fields omitted."
+  },
+  {
+    "file": "evidence/shell-canary.txt",
+    "sourceSha256": "a9d4fff53f54995ada99af054494d6e941a9ff85f5715c0a5645e41b882b7b22",
+    "publishedSha256": "a9d4fff53f54995ada99af054494d6e941a9ff85f5715c0a5645e41b882b7b22",
+    "transformation": null
+  }
+]

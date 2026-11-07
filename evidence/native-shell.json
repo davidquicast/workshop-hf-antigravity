@@ -1,0 +1,13 @@
+{
+  "event": "step_update",
+  "step_update": {
+    "step_index": 9,
+    "state": "DONE",
+    "tool_name": "run_command",
+    "tool_info": {
+      "parameters": {
+        "CommandLine": "echo HF_SPACE_RULE_ACTIVE > devfest-canary.txt"
+      }
+    }
+  }
+}

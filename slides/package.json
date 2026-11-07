@@ -1,0 +1,24 @@
+{
+  "name": "devfest-cusco-ai-security-slides",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "python3 scripts/serve.py",
+    "export": "node scripts/export.mjs",
+    "export:en": "node scripts/export.mjs --lang=en",
+    "typecheck": "tsc --project tsconfig.json"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12",
+    "pdf-lib": "1.17.1",
+    "playwright-core": "1.56.1",
+    "pptxgenjs": "4.0.1",
+    "qrcode": "1.5.4",
+    "typescript": "5.9.3"
+  },
+  "overrides": {
+    "image-size": "^2.0.3"
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+lab/harness/results/
+slides/dist/
+slides/qa/
+slides/public/*.pdf
+slides/public/*.pptx
+*.pem
+*.key

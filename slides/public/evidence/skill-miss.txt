@@ -1,0 +1,3 @@
+--- TURN 1 (note_plain) ---
+Te recomiendo **Pillow (PIL)**, que es la librería estándar y más versátil de Python para la creación, composición y edición de imágenes. Con ella podrás combinar capas, redimensionar elementos y añadir tipografías o gráficos de manera sencilla y eficiente en tu pipeline.
+
