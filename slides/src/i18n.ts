@@ -13,7 +13,11 @@ function initialLanguage():Language{
 }
 let language:Language=initialLanguage();
 export const getLanguage=()=>language;
-export const exportFile=(file:string)=>language==='en'?file.replace(/\.(pdf|pptx)$/,'-en.$1'):file;
+export const exportFile=(file:string)=>{
+ const selected=language==='en'?file.replace(/\.(pdf|pptx)$/,'-en.$1'):file;
+ // The Hub redirects large files to a CDN; request attachment delivery explicitly.
+ return location.hostname.endsWith('.hf.space')?selected+'?download=true':selected;
+};
 export function t(value:string):string{
  if(language==='es')return value;
  if(Object.prototype.hasOwnProperty.call(dictionary,value))return dictionary[value];

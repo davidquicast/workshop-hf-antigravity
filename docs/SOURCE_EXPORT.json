@@ -389,9 +389,9 @@
     {
       "file": "slides/src/i18n.ts",
       "originalSha256": "2886013cf4ac81f942f38cd7e23908691f88a7b6df9182bdf6e0f01e59a272cb",
-      "publishedSha256": "2886013cf4ac81f942f38cd7e23908691f88a7b6df9182bdf6e0f01e59a272cb",
-      "adapted": false,
-      "transformation": "Current route only; private source/operator metadata removed where applicable."
+      "publishedSha256": "39f78ad8b8d9370cb2fc11629cbf1a26a2a04c6ae44f4616c3605a8e133d1966",
+      "adapted": true,
+      "transformation": "Original route/language behavior retained; HF export URLs request attachment delivery to avoid PDF-viewer navigation after the CDN redirect. Same correction applied to the working source."
     },
     {
       "file": "slides/src/style.css",
