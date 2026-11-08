@@ -1,5 +1,10 @@
 # ¿Puede Hugging Face manipular a Antigravity?
 
+<p align="center">
+  <img src="slides/public/brand/gdg-badge.svg" alt="GDG" height="40"><br>
+  <strong>GDG DevFest Cusco 2026</strong> · Lab educativo de seguridad de agentes de IA
+</p>
+
 Material del workshop de **David Quispe · @davidquicast**, DevFest Cusco 2026.
 
 **[Abrir las slides](https://huggingface.co/spaces/davidquicast/devfest-cusco-2026-ai-security)** · **[Generador de imágenes](https://huggingface.co/spaces/davidquicast/generador-imagenes-2)** · **[Consultar la evidencia](https://davidquicast-devfest-cusco-2026-ai-security.static.hf.space/evidence/index.html#capture)**

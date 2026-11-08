@@ -6,7 +6,9 @@ revisado. El historial de investigación, sus ramas y sus originales se conserva
 Se incluyen fuentes de la presentación y del generador, runners seleccionados,
 columnas de resultados por ensayo, extractos de tres capturas y tres respuestas, y
 método/limitaciones. `SOURCE_EXPORT.json` identifica los archivos copiados o adaptados
-mediante sus hashes originales y publicados.
+mediante sus hashes originales y publicados. La procedencia de los extractos nativos
+(`evidence/native-*.json`, `evidence/native-shell.json`, `evidence/shell-canary.txt`) se
+detalla en `evidence/native-manifest.json`.
 
 No se incluyen credenciales, perfiles completos, valores de sesiones, el dataset privado,
 conversaciones completas, rutas de la máquina del investigador ni informes internos.
